@@ -2,12 +2,20 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+
 blog  = "blog/:slug/"
+
 [[menu.main]]
-name               	= "Contact"
+name               	= "Kontakt"
 weight             	= -210
-identifier         	= "contact"
-url                	= "/contact"
+identifier         	= "kontakt"
+url                	= "/kontakt"
+
+[[menu.main]]
+name               	= "Om"
+weight             	= -200
+identifier         	= "om"
+url                	= "/om"
 
 [[menu.main]]
 name               	= "Home"
@@ -17,6 +25,12 @@ url                	= "/"
 
 [[menu.main]]
 name               	= "Blog"
-weight             	= -200
+weight             	= -190
 identifier         	= "blog"
 url                	= "/blog/"
+
+[[menu.main]]
+name               	= "Portfolio"
+weight             	= -180
+identifier         	= "portfolio"
+url                	= "/portfolio/"
