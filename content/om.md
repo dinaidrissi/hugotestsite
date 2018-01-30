@@ -1,7 +1,7 @@
 ---
 title: "Om"
 date: 2018-01-30T09:17:23+01:00
-draft: true
+
 ---
 
 # Om mig!
