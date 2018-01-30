@@ -12,7 +12,7 @@ Velkommen til mit site!
 
 * Mad
 * Familie
-* Venner
+* Venner!
 * Netflix
  * Serier
  * Film
