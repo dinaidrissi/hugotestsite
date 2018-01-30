@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_Index on My New Hugo Site</title>
-    <link>http://dinaidrissi.dk/portfolio/</link>
+    <link>http://hugotestsite.dinaidrissi.dk/portfolio/</link>
     <description>Recent content in _Index on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2018 09:01:23 +0100</lastBuildDate>
     
-	<atom:link href="http://dinaidrissi.dk/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hugotestsite.dinaidrissi.dk/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Case5</title>
-      <link>http://dinaidrissi.dk/portfolio/case5/</link>
+      <link>http://hugotestsite.dinaidrissi.dk/portfolio/case5/</link>
       <pubDate>Tue, 30 Jan 2018 08:59:14 +0100</pubDate>
       
-      <guid>http://dinaidrissi.dk/portfolio/case5/</guid>
+      <guid>http://hugotestsite.dinaidrissi.dk/portfolio/case5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case4</title>
-      <link>http://dinaidrissi.dk/portfolio/case4/</link>
+      <link>http://hugotestsite.dinaidrissi.dk/portfolio/case4/</link>
       <pubDate>Tue, 30 Jan 2018 08:59:08 +0100</pubDate>
       
-      <guid>http://dinaidrissi.dk/portfolio/case4/</guid>
+      <guid>http://hugotestsite.dinaidrissi.dk/portfolio/case4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case3</title>
-      <link>http://dinaidrissi.dk/portfolio/case3/</link>
+      <link>http://hugotestsite.dinaidrissi.dk/portfolio/case3/</link>
       <pubDate>Tue, 30 Jan 2018 08:59:04 +0100</pubDate>
       
-      <guid>http://dinaidrissi.dk/portfolio/case3/</guid>
+      <guid>http://hugotestsite.dinaidrissi.dk/portfolio/case3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case2</title>
-      <link>http://dinaidrissi.dk/portfolio/case2/</link>
+      <link>http://hugotestsite.dinaidrissi.dk/portfolio/case2/</link>
       <pubDate>Tue, 30 Jan 2018 08:58:59 +0100</pubDate>
       
-      <guid>http://dinaidrissi.dk/portfolio/case2/</guid>
+      <guid>http://hugotestsite.dinaidrissi.dk/portfolio/case2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case1</title>
-      <link>http://dinaidrissi.dk/portfolio/case1/</link>
+      <link>http://hugotestsite.dinaidrissi.dk/portfolio/case1/</link>
       <pubDate>Tue, 30 Jan 2018 08:58:52 +0100</pubDate>
       
-      <guid>http://dinaidrissi.dk/portfolio/case1/</guid>
+      <guid>http://hugotestsite.dinaidrissi.dk/portfolio/case1/</guid>
       <description></description>
     </item>
     
