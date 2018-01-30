@@ -9,7 +9,7 @@ draft: true
 Velkommen til mit site!
 
 ## Ting jeg elsker:
-
+* Min skat, Hai
 * Mad
 * Familie
 * Venner!
@@ -33,3 +33,11 @@ Velkommen til mit site!
  ![Foto af Dina](/img/dina2.JPG)
  
   [![Foto af Dina](/img/dina2.JPG)](http://google.com)
+  
+  ## send mig en besked:
+  
+  <form method="POST" action="https://formspree.io/dina2400nv@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>

@@ -34,3 +34,5 @@ name               	= "Portfolio"
 weight             	= -180
 identifier         	= "portfolio"
 url                	= "/portfolio/"
+[params]
+extracssfiles          = [ "/css/override.css" ]

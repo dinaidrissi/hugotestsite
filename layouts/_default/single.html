@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        Hey du, ved du hvad du sku?
+        <div class="content">
+            {{ partial "page-heading.html" . }}
+            <div class="caseimage"><img src="{{ .Params.caseimage}}"></div>
+            <span>Humør: {{ .Params.mood }}</span>
+            <div class="markdown">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
