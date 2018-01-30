@@ -2,6 +2,7 @@ baseURL = "http://hugotestsite.dinaidrissi.dk/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+publishDir= "docs"
 
 blog  = "blog/:slug/"
 
